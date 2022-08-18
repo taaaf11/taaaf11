@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tofi1130
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my email is taafuuu@gmail.com - you can reach me there
 
 <!---
