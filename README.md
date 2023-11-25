@@ -4,6 +4,8 @@
 - 🖥️ Interested in: Python, Linux
 - 📫 Reach me: taafuuu@gmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 ![](https://komarev.com/ghpvc/?username=taaaf11&color=ff69b4&style=for-the-badge)
 <!---
 tofi1130/tofi1130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
